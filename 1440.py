@@ -1,16 +1,15 @@
-def a():
-    got = map(int,input().split())
-    first = got[0]
-    del got[0]
-    for x in got:
-        if x > first:
-            print("< ",end="")
-        elif x < first:
-            print("> ",end="")
-        elif x == first:
-            print("= ",end="")
-    print()
-
 n = int(input())
+numbers = list(map(int,input().split()))
+
 for x in range(n):
-    a()
+    print(str(x+1) + ": ",end="")
+    for y in range(n):
+        stand = numbers[x]
+        if y != x:
+            if numbers[y] > stand:
+                print("< ",end="")
+            elif numbers[y] == stand:
+                print("= ", end="")
+            elif numbers[y] < stand:
+                print("> ", end="")
+    print("")

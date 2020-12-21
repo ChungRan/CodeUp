@@ -1,7 +1,7 @@
 y, x = map(int,input().split())
 board = [[0 for _ in range(x)]for _ in range(y)]
 
-cx = 0
+cx = x - 1
 cy = 0
 cl = 1
 
@@ -12,13 +12,13 @@ cl = 1
 
 for t in range(x*y):
     board[cy][cx] = t + 1
-    if cy == 0 or cx == (x - 1):
+    if cx == 0 or cy == 0:
         cl = cl + 1
-        cx = (0 if cl <= y else cl - y)
-        cy = (y - 1 if cl > y else cl - 1)
+        cx = (x - 1 if cl < y else x - 1 - cl + y)
+        cy = (cl - 1 if cl < y else y - 1)
     else:
         cy = cy - 1
-        cx = cx + 1
+        cx = cx - 1
 
 # 출력
 for _y in range(y):

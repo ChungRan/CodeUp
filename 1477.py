@@ -12,13 +12,13 @@ cl = 1
 
 for t in range(x*y):
     board[cy][cx] = t + 1
-    if cy == 0 or cx == (x - 1):
+    if cx == 0 or cy == y - 1:
         cl = cl + 1
-        cx = (0 if cl <= y else cl - y)
-        cy = (y - 1 if cl > y else cl - 1)
+        cx = (cl - 1 if cl < x else x - 1)
+        cy = (0 if cl < x else cl - x)
     else:
-        cy = cy - 1
-        cx = cx + 1
+        cy = cy + 1
+        cx = cx - 1
 
 # 출력
 for _y in range(y):

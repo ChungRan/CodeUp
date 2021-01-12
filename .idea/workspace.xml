@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7d82595-5bdf-4538-b70a-d69745dc820f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1525.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4085.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,51 +51,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BOJ" />
   </component>
-  <component name="RunManager" selected="Python.1525">
-    <configuration name="1510" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeUp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1510.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1513" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeUp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1513.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.3004">
     <configuration name="1520-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +117,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeUp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeUp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4085.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3004" />
+        <item itemvalue="Python.4085" />
         <item itemvalue="Python.1525" />
         <item itemvalue="Python.1520-1" />
         <item itemvalue="Python.1520" />
-        <item itemvalue="Python.1513" />
-        <item itemvalue="Python.1510" />
       </list>
     </recent_temporary>
   </component>
@@ -194,26 +195,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="812" y="275" key="FileChooserDialogImpl" timestamp="1608344742429">
+    <state x="812" y="275" key="FileChooserDialogImpl" timestamp="1610353327193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="812" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608344742429" />
-    <state width="1580" height="250" key="GridCell.Tab.0.bottom" timestamp="1610332045085">
+    <state x="812" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610353327193" />
+    <state width="1580" height="250" key="GridCell.Tab.0.bottom" timestamp="1610439983240">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1580" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610332045085" />
-    <state width="1580" height="250" key="GridCell.Tab.0.center" timestamp="1610332045085">
+    <state width="1580" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610439983240" />
+    <state width="1580" height="250" key="GridCell.Tab.0.center" timestamp="1610439983240">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1580" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610332045085" />
-    <state width="1580" height="250" key="GridCell.Tab.0.left" timestamp="1610332045084">
+    <state width="1580" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610439983240" />
+    <state width="1580" height="250" key="GridCell.Tab.0.left" timestamp="1610439983239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1580" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610332045084" />
-    <state width="1580" height="250" key="GridCell.Tab.0.right" timestamp="1610332045085">
+    <state width="1580" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610439983239" />
+    <state width="1580" height="250" key="GridCell.Tab.0.right" timestamp="1610439983240">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1580" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610332045085" />
+    <state width="1580" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610439983240" />
     <state width="1580" height="328" key="GridCell.Tab.1.bottom" timestamp="1610271148192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -108,3 +108,11 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
 *.xml
 .idea/workspace.xml
+.idea/CodeUp.iml
+.idea/dbnavigator.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml

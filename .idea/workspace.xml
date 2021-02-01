@@ -20,9 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7d82595-5bdf-4538-b70a-d69745dc820f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4501.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1545.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1546.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1549.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1550.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1551.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1556.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1557.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1558.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1560.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1561.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1562.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1563.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1564.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +65,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BOJ" />
   </component>
-  <component name="RunManager" selected="Python.4501">
-    <configuration name="3004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1565">
+    <configuration name="1552" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1552.c" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1553" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1553.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1557" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3017.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1557.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4085" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1558" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1558.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1565" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeUp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4501.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1565.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4501" />
-        <item itemvalue="Python.3017" />
-        <item itemvalue="Python.3011" />
-        <item itemvalue="Python.3004" />
-        <item itemvalue="Python.4085" />
+        <item itemvalue="Python.1565" />
+        <item itemvalue="Python.1558" />
+        <item itemvalue="Python.1557" />
+        <item itemvalue="Python.1553" />
+        <item itemvalue="Python.1552" />
       </list>
     </recent_temporary>
   </component>
@@ -196,26 +207,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="679" y="111" key="#1552" timestamp="1612166874591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="111" key="#1552/0.0.1920.1040@0.0.1920.1040" timestamp="1612166874591" />
     <state x="812" y="275" key="FileChooserDialogImpl" timestamp="1610353327193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="812" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610353327193" />
-    <state width="1899" height="250" key="GridCell.Tab.0.bottom" timestamp="1610502812122">
+    <state width="1580" height="235" key="GridCell.Tab.0.bottom" timestamp="1612168159739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610502812122" />
-    <state width="1899" height="250" key="GridCell.Tab.0.center" timestamp="1610502812121">
+    <state width="1580" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612168159739" />
+    <state width="1580" height="235" key="GridCell.Tab.0.center" timestamp="1612168159739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610502812121" />
-    <state width="1899" height="250" key="GridCell.Tab.0.left" timestamp="1610502812121">
+    <state width="1580" height="235" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612168159739" />
+    <state width="1580" height="235" key="GridCell.Tab.0.left" timestamp="1612168159739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610502812121" />
-    <state width="1899" height="250" key="GridCell.Tab.0.right" timestamp="1610502812121">
+    <state width="1580" height="235" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612168159739" />
+    <state width="1580" height="235" key="GridCell.Tab.0.right" timestamp="1612168159739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610502812121" />
+    <state width="1580" height="235" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612168159739" />
     <state width="1580" height="328" key="GridCell.Tab.1.bottom" timestamp="1610271148192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
